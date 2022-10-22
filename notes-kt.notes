@@ -1,0 +1,31 @@
+-----------------------------------------------------------
+Notes KT
+-----------------------------------------------------------
+
+---bhavya---
+--bhavya--
+==bhavya==
+<bhavya>
+*bhavya*
+(bhavya)
+"bhavya"
+!!bhavya
+#bhavya#
+name: bhavya
+--->
+-->
+==>
+[sh]
+ls -lah
+[end]
+
+[yaml]
+server:
+	port: 8080
+[end]
+
+[c++]
+int a;
+cin >> a;
+cout << a;
+[end]
